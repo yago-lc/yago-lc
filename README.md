@@ -14,8 +14,7 @@
 **Tecnologias:**
 
 <img width = 55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  <img width = 55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />            <img width = 55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />            <img width = 55px 
- src="https://
-cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 **Contato**
  
@@ -23,3 +22,6 @@ cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 
           
+
+
+
